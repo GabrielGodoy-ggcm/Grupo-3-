@@ -1,0 +1,6 @@
+pacote_equipe/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Grupo*.zip
